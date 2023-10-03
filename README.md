@@ -3,4 +3,4 @@ A fan-made version of World's Hardest Game but its made using Blender Game Engin
 
 You have to install 7-Zip to extract all the .7z files so that you have the application files ready
 Make sure the application file is in the Application folder so that it can actually run
-If you want to go to the source project, extract the .7z file in the Source Project folder and launch it using Blender 2.76 (recommended version)
+If you want to go to the source project, extract the .7z file in the Source Project folder (if you extracted the "Extract this to add the four folders.7z" already) and launch it using Blender 2.76 (recommended version)
